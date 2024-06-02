@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="eTnombre" type="id" />
+    <item name="btn" type="id" />
+    <item name="recyclerSeries" type="id" />
+    <item name="action_viewPagerFragment_to_menuFragment" type="id" />
+    <item name="action_menuFragment_to_login2Fragment5" type="id" />
+    <item name="action_menuFragment_to_creditFragment" type="id" />
+    <item name="action_itemListFragment_to_userInfoFragment" type="id" />
+    <item name="action_itemListFragment_to_detailItemFragment" type="id" />
+    <item name="action_userInfoFragment_to_favItemListFragment" type="id" />
+    <item name="action_menuFragment_to_itemListFragment" type="id" />
+    <item name="action_menuFragment_to_loginFragment" type="id" />
+</resources>

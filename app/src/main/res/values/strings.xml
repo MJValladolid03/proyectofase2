@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">proyectorecu</string>
+    <string name="nombre">¿Cómo te llamas?</string>
+    <string name="bienvenida">¡Bienvenido a Euforia!</string>
+    <string name="creditos">Iniciar</string>
+    <string name="info">%s, estás usando una versión de la aplicacion Euforia</string>
+    <string name="contenido">En esta version se ha añadido un boton donde puedes encontrar las diferentes series y un boton de contacto con el desarrollador para comunicarle todos los problemas encontrados "</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_list_title"> SERIES </string>
+
+    <string name="serie">game</string>
+    <string name="genero">genre</string>
+    <string name="fecha">date</string>
+    <string name="foto">image</string>
+    <string name="Series" />
+
+    <string name="user_info_title">- USUARIO -</string>
+    <string name="NombreUsuario">Nombre de usuario: MJ Valladolid</string>
+    <string name="Text">Todavia no has marcado ningún juego como favorito.</string>
+
+    <string name="btnFavoritos">Favoritos</string>
+    <string name="Favoritos">Favoritos</string>
+    <string name="Usuarios">Usuarios</string>
+
+    <string name="Resumen">Series que puedes encontrar!</string>
+    <string name="seriestexto">Los Series de Netflix son bastante populares debido a lo entretenidos que son. Siga deslizando si quiere descubrir más sobre estas series.</string>
+    <string name="seriestexto2">Mario y Zelda hasta los innovadores como Splatoon y Animal Crossing, Nintendo ofrece experiencias únicas para jugadores de todas las edades.</string>
+</resources>
